@@ -5,5 +5,6 @@ public class main1{
         System.out.println("This is my first Java code");
         System.out.println("It's always best to learn new");
         System.out.println(new Date());
+        System.out.println("Hello");
     }
 }
