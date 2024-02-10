@@ -7,5 +7,7 @@ public class main1{
         System.out.println(new Date());
         System.out.println("Hello");
         System.out.println("added one more file");
+        Student student = new Student();
+        student.SayHello();
     }
 }
